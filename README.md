@@ -1,4 +1,4 @@
-# ninja-job
+# Royalty website
 
 ## Project setup
 ```
