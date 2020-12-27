@@ -1,0 +1,7 @@
+{
+    "mechants": [
+        { "title": "Lazada", "id": 1, "details": "lorem" },
+        { "title": "Shopee", "id": 2, "details": "lorem" },
+        { "title": "Zalora", "id": 3, "details": "lorem" }
+    ]
+}
