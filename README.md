@@ -1,13 +1,16 @@
 # Loyalty website
 
-## 1. Download file
+## Download file 
+```
+git clone https://github.com/amirasufiya/vuejs-valiantlytix.git
+```
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## CD into project folder and run the project
 ```
 npm run serve
 ```
