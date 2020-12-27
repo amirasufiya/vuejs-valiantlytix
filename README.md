@@ -1,4 +1,6 @@
-# Royalty website
+# Loyalty website
+
+## 1. Download file
 
 ## Project setup
 ```
