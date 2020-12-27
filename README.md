@@ -17,9 +17,9 @@ npm run serve
 ```
 
 ### Output as 27/12/2020
-1/ User can see the list of merchants that are available on the platform
-2/ User can click the merchants name to see the ongoing offer (stamps, points and unique vouchers)
-3/ User can view merchants they follow
+1. User can see the list of merchants that are available on the platform
+2. User can click the merchants name to see the ongoing offer (stamps, points and unique vouchers)
+3. User can view merchants they follow
 
 ## About this project:
 1. This is my first project using VueJS Framework =D
