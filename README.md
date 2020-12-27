@@ -16,7 +16,12 @@ npm install
 npm run serve
 ```
 
+### Output as 27/12/2020
+1/ User can see the list of merchants that are available on the platform
+2/ User can click the merchants name to see the ongoing offer (stamps, points and unique vouchers)
+3/ User can view merchants they follow
+
 ## About this project:
 1. This is my first project using VueJS Framework =D
 2. I'm using fetch requests to load data whenever a customer lands on the page and integrating with existing REST APIs (my first time also xD)
-3. This project has been done for less than 24 hours because I have a limited time constraint due to my final year project beta testing is next week x_x (pray for me!!)
+3. This project has been done in 24 hours because I have a limited time constraint due to my final year project beta testing next week x_x (pray for me!!) Will continue to explore more project using VueJS because it's super simple and why not xD
